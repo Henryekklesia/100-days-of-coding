@@ -1,0 +1,9 @@
+Vi or Vim file = Opens file into vi editor
+i = text mode
+esq = normal mode
+: = command mode
+:q = exit
+:w = write
+:q! = exit without saving
+:x = save and exit
+:wq = save and exit
