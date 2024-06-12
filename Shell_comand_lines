@@ -1,0 +1,6 @@
+pwd = print working documents
+cd = change directory
+ls = list items in a directory
+rm = remove file
+rm -r = remove directory and files within
+cp = copy files or directories to a new location
